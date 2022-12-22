@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UserInfoForm/static/css/main.dc71cc57.css",
+    "main.js": "/UserInfoForm/static/js/main.fc0b768f.js",
+    "index.html": "/UserInfoForm/index.html",
+    "main.dc71cc57.css.map": "/UserInfoForm/static/css/main.dc71cc57.css.map",
+    "main.fc0b768f.js.map": "/UserInfoForm/static/js/main.fc0b768f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc71cc57.css",
+    "static/js/main.fc0b768f.js"
+  ]
+}
